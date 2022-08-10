@@ -1,5 +1,5 @@
 licencia=input("Tiene Licencia? ")
 if licencia=="si":
-    print("Tiene Licencia")
+    print("Tiene")
 else:
-    print("No Tiene licencia")
+    print("No Tiene")
